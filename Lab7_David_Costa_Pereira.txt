@@ -1,0 +1,20 @@
+Bom dia
+Boa tarde
+Boa noite
+Vamos fingir que a obra nao vai atrasar novamente?
+
+------------------------------------------------------------
+
+UMA ORDENACAO TOPOLOGICA:
+
+N a B C I E F J L K D G H M 
+
+------------------------------------------------------------
+
+CAMINHO CRITICO:
+
+TAREFA        DESCRICAO           DURACAO
+
+  N   Acabamento interior           151
+                                   ----
+TEMPO MINIMO PARA O PROJETO:        151 semanas
